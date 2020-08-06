@@ -6,7 +6,7 @@ Statement
 
 ### Usage
 
-How to use
+How to use.
 
 
 ### Licensing
