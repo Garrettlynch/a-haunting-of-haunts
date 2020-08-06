@@ -1,13 +1,13 @@
-# I Like America and America Likes Me (1974)
+## I Like America and America Likes Me (1974)
 ### Joseph Beuys, Germany
 
 The performance I Like America And America Likes Me by Joseph Beuys occurred at the René Block Gallery in New York from the 23rd to 25th of May 1974. It consisted of the artist being locked in a room in the gallery for the three days with a live coyote.
 
-The performance's title is employed with irony. Beuys had a troubled relationship with American politics and in particular the Vietname War. He refused to set foot on American soil while the war was occuring so
+The performance's title is employed with irony. Beuys had a troubled relationship with US politics and in particular its involvement in the Vietnam War. So blindfolded he flew to New York, was wrapped in felt and carried to an ambulance which took him directly to the gallery. On completion of the performance he was returned to the airport in the same manner and departed the US without having set foot on US soil or moving beyond the room of the performance. Beuys later explained: "I wanted to isolate myself, insulate myself, see nothing of America other than the coyote." 
 
 
 
-As Beuys later explained: ‘I wanted to isolate myself, insulate myself, see nothing of America other than the coyote.’ The title of the work is filled with irony. Beuys opposed American military actions in Vietnam, and his work as an artist was a challenge to the hegemony of American art.
+The title of the work is filled with irony. Beuys opposed American military actions in Vietnam, and his work as an artist was a challenge to the hegemony of American art.
 
 Beuys’s felt blankets, walking stick and gloves became sculptural props throughout the Action. In addition, fifty new copies of the Wall Street Journal were introduced each day, which the coyote acknowledged by urinating on them. Beuys regularly performed the same series of actions with his eyes continuously fixed on the coyote. At other times he would rest or gather the felt around him to suggest the figure of a shepherd with his crook. The coyote’s behaviour shifted throughout the three days, becoming cautious, detached, aggressive and sometimes companionable. At the end of the Action, Beuys was again wrapped in felt and returned to the airport.
 
