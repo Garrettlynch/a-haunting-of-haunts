@@ -5,6 +5,8 @@
 
 Some time later the artist explained that she had created the performance "as a reaction against the idea of violence against women" (Viso, 2008, p.256) as a result of how the rape had "moved and frightened" (Manchester, 2009) her.
 
+#### Usage
+
 
 #### References
 Manchester, E., (2009). *Ana Mendieta Untitled (Rape Scene) 1973*. [online] tate.org.uk. Available at: <https://www.tate.org.uk/art/artworks/mendieta-untitled-rape-scene-t13355> [Accessed 6th August 2020].
