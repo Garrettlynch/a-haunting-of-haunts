@@ -1,5 +1,5 @@
 # I Like America and America Likes Me (1974)
-## Joseph Beuys, Germany
+### Joseph Beuys, Germany
 
 The performance I Like America And America Likes Me by Joseph Beuys occurred at the René Block Gallery in New York from the 23rd to 25th of May 1974. It consisted of the artist being locked in a room in the gallery for the three days with a live coyote.
 
@@ -16,5 +16,5 @@ Beuys’s felt blankets, walking stick and gloves became sculptural props throug
 
 
 
-### References:
+#### References:
 https://www.tate.org.uk/whats-on/tate-modern/exhibition/joseph-beuys-actions-vitrines-environments/joseph-beuys-actions-4
