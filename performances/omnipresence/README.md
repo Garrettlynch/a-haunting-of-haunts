@@ -9,4 +9,5 @@ Titled *Omnipresence* because the surgery, performed in an operating theatre tha
 
 
 #### References
+
 Knafo, D., (2009). Castration and Medusa: Orlan's Art on the Cutting Edge. *Studies in Gender and Sexuality*, 10(3), pp. 142-158.

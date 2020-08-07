@@ -7,4 +7,5 @@
 
 
 #### References
+
 Flash Art, (2019). *The (In)Animate World of Rebecca Horn*. [online] flash---art.com. Available at: <https://flash---art.com/article/the-inanimate-world-of-rebecca-horn/> [Accessed 6th August 2020].
