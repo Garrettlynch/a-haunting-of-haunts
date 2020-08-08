@@ -1,5 +1,5 @@
 # A Haunting of Haunts (2020)
-## Garrett Lynch IRL, Ireland
+### *Garrett Lynch IRL, Ireland*
 
 ![A Haunting of Haunts](https://user-images.githubusercontent.com/8354239/89712964-f3be5f80-d9b1-11ea-96b7-559f1a2a2558.png)
 
@@ -47,11 +47,11 @@ The series is intended to facilitate the exploration of what can be achieved whe
 
 ### References
 
-	Dixon, S., (2007). *Digital performance: a history of new media in theater, dance, performance art and installation*. Cambridge: MIT Press.
-McHugh, G., (2011). *Post internet*. Brescia: LINK Editions.
-Phelan, P., (1993). *Unmarked: the politics of performance*. London: Routledge.
-Salter, C., (2010). *Entangled: technology and the transformation of performance*. Cambridge: MIT Press.
-Zapp, A., (2004). *Networked narrative environments as imaginary spaces of being*. Manchester: Cornerhouse Publications.
+* Dixon, S., (2007). *Digital performance: a history of new media in theater, dance, performance art and installation*. Cambridge: MIT Press.
+* McHugh, G., (2011). *Post internet*. Brescia: LINK Editions.
+* Phelan, P., (1993). *Unmarked: the politics of performance*. London: Routledge.
+* Salter, C., (2010). *Entangled: technology and the transformation of performance*. * Cambridge: MIT Press.
+* Zapp, A., (2004). *Networked narrative environments as imaginary spaces of being*. Manchester: Cornerhouse Publications.
 
 
 ### Acknowledgements
