@@ -7,21 +7,6 @@
 
 ---
 
-. | .
---- | ---
-Top: | Recreation of Rebecca Horn's studio in West Berlin employed in the performance Scratching Both Walls at Once.
-Bottom left: | Recreation of the space employed by Joseph Beuys at the René Block Gallery for the performance I Like America and America Likes Me.
-Bottom right: | Recreation of the studio in Southampton, New York employed by Bruce Nauman in the performance Walking in an Exaggerated Manner around a Square.
-
-
-Markdown | Less | Pretty
---- | --- | ---
-1 | 2 | 3
-
-
-
-
-
 ### About
 
 *A Haunting of Haunts* is a collection of media packs that allow artists to reenact or create new networked performance art based on landmark performance art. It provides media in image and 3D formats that can be employed within a number of networked environments.
