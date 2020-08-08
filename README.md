@@ -25,13 +25,13 @@ Artist's are encouraged to freely employ provided media within reenactments of l
 There are a number of ways to contribute to *A Haunting of Haunts*:
 
 1. The reenactment or creation of performances with media provided.
-	* Performances can be created through the use of the provided performance image or Collada 3D file. To have documentation of the performance included as part of this repository contact Garrett Lynch IRL through GitHub.
+	*	Performances can be created through the use of the provided performance image or Collada 3D file. To have documentation of the performance included as part of this repository contact Garrett Lynch IRL through GitHub.
 
 2. The reworking of current performance media.
-	* Media provided as part of performances listed in this repository can be improved, reworked, added to or remixed in any way and included in branch repositorys from the master branch. To request inclusion in the master branch please file a merge request.
+	*	Media provided as part of performances listed in this repository can be improved, reworked, added to or remixed in any way and included in branch repositorys from the master branch. To request inclusion in the master branch please file a merge request.
 
 3. The creation of new performance media.
-	* New performance media i.e. of performances not currently included in this repository, can be created and included in branch repositorys from the master branch. To request inclusion in the master branch please file a merge request.
+	*	New performance media i.e. of performances not currently included in this repository, can be created and included in branch repositorys from the master branch. To request inclusion in the master branch please file a merge request.
 
 
 ### Statement
@@ -47,11 +47,11 @@ The series is intended to facilitate the exploration of what can be achieved whe
 
 ### References
 
-* Dixon, S., (2007). *Digital performance: a history of new media in theater, dance, performance art and installation*. Cambridge: MIT Press.
-* McHugh, G., (2011). *Post internet*. Brescia: LINK Editions.
-* Phelan, P., (1993). *Unmarked: the politics of performance*. London: Routledge.
-* Salter, C., (2010). *Entangled: technology and the transformation of performance*. Cambridge: MIT Press.
-* Zapp, A., (2004). *Networked narrative environments as imaginary spaces of being*. Manchester: Cornerhouse Publications.
+*	Dixon, S., (2007). *Digital performance: a history of new media in theater, dance, performance art and installation*. Cambridge: MIT Press.
+*	McHugh, G., (2011). *Post internet*. Brescia: LINK Editions.
+*	Phelan, P., (1993). *Unmarked: the politics of performance*. London: Routledge.
+*	Salter, C., (2010). *Entangled: technology and the transformation of performance*. Cambridge: MIT Press.
+*	Zapp, A., (2004). *Networked narrative environments as imaginary spaces of being*. Manchester: Cornerhouse Publications.
 
 
 ### Acknowledgements
