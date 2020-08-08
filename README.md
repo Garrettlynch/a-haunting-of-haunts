@@ -7,6 +7,7 @@
 *Top: Recreation of Rebecca Horn's studio in West Berlin employed in the performance Scratching Both Walls at Once.*  | *Bottom left: Recreation of the space employed by Joseph Beuys at the René Block Gallery for the performance I Like America and America Likes Me.* | *Bottom right: Recreation of the studio in Southampton, New York employed by Bruce Nauman in the performance Walking in an Exaggerated Manner around a Square.*
 
 
+*Still* | `renders` | **nicely**
 
 
 
