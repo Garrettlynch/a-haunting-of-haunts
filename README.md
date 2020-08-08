@@ -33,6 +33,7 @@ There are a number of ways to contribute to *A Haunting of Haunts*:
 3. The creation of new performance media.
 	*	New performance media i.e. of performances not currently included in this repository, can be created and included in branch repositorys from the master branch. To request inclusion in the master branch please file a merge request.
 
+---
 
 ### Statement
 
@@ -53,6 +54,7 @@ The series is intended to facilitate the exploration of what can be achieved whe
 *	Salter, C., (2010). *Entangled: technology and the transformation of performance*. Cambridge: MIT Press.
 *	Zapp, A., (2004). *Networked narrative environments as imaginary spaces of being*. Manchester: Cornerhouse Publications.
 
+---
 
 ### Acknowledgements
 
