@@ -50,7 +50,7 @@ The series is intended to facilitate the exploration of what can be achieved whe
 * Dixon, S., (2007). *Digital performance: a history of new media in theater, dance, performance art and installation*. Cambridge: MIT Press.
 * McHugh, G., (2011). *Post internet*. Brescia: LINK Editions.
 * Phelan, P., (1993). *Unmarked: the politics of performance*. London: Routledge.
-* Salter, C., (2010). *Entangled: technology and the transformation of performance*. * Cambridge: MIT Press.
+* Salter, C., (2010). *Entangled: technology and the transformation of performance*. Cambridge: MIT Press.
 * Zapp, A., (2004). *Networked narrative environments as imaginary spaces of being*. Manchester: Cornerhouse Publications.
 
 
