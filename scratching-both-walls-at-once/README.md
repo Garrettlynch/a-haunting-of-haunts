@@ -1,6 +1,8 @@
 ## Scratching Both Walls at Once (1974-75)
 ### Rebecca Horn, Germany
 
+![Scratching Both Walls at Once](https://user-images.githubusercontent.com/8354239/89808268-86e4ca00-db57-11ea-8835-1d7c4764d262.png)
+
 *Scratching Both Walls at Once* by Rebecca Horn is the first in a series of performances titled *Berlin Exercises*. Conceived as interactions between the artist's body and the space it was in, her studio in west Berlin, Horn revisited the theme and processes explored in *Finger Gloves* (1972), part of an earlier series titled *Performances II*.
 
 > "In Scratching Both Walls at Once the dimensions of Horn’s Finger Gloves are extended further. Keyed to the width of her studio, Horn slowly scratches the tips of these even longer gloves along the walls to either side." (Flash Art, 2019)
