@@ -11,17 +11,15 @@
 
 *A Haunting of Haunts* is a collection of media packs that allow artists to reenact or create new networked performance art based on landmark performances. It provides media in image and 3D formats that can be employed within a number of networked environments.
 
-
 ### Usage
 
-Each pack contains a high resolution image of the scene of a performance, a Collada 3D file and the source scene Blender file.
+Each pack contains a high resolution PNG image of the scene of a performance, a Collada 3D file and the source scene Blender file.
 
-*	The images can be used as video backgrounds in video conferencing applications such as [Zoom](https://zoom.us/) or through video streaming/mixing applications such as [CamTwist](http://camtwiststudio.com/) and [OBS](https://obsproject.com/).
-*	The Collada 3D files can be imported to [Second Life](https://secondlife.com/), [Unity](https://unity.com/) or any other 3D application that enables models to be imported.
-*	The source Blender files can be improved, reworked, added to or remixed in any way and exported as image, video or 3D.
+*	Image (.png): The 3D rendered images are uncompressed PNG's at 1080p (1920px x 1080px) resolution. The images can be used as video backgrounds in video conferencing applications such as [Zoom](https://zoom.us/), [Skype](https://www.skype.com/) or through video streaming/mixing applications such as [CamTwist](http://camtwiststudio.com/) and [OBS](https://obsproject.com/).
+*	Collada (.dae) 3D: The Collada files have been specifically optimised and exported for importing into [Second Life](https://secondlife.com/). Once imported the models will need to be scaled to size and textures can be added as required. Textures used in the original Blender source are provided in an accompanying media folder. The Collada 3D files can also be imported into 3D environments such as [Unity](https://unity.com/) or various other 3D/VR/AR applications that enable models to be imported. However, if the provided Collada 3D file is not optimised or high quality enough for your target 3D environment please revert to the Blender source to export to a suitable format and quality.
+*	Blender (.blend) source: The source Blender files can be improved, reworked, added to or remixed in any way and exported as image, video or 3D file formats. They have not been optimised for any specific target 3D environment. If you are exporting for Second Life, for example, you will be required to reduce the number of vertices to below 65,536 and join many of the small/thin meshes to allow importing and enable scaling in Second Life.
 
-Artist's are encouraged to freely employ provided media within reenactments of landmark performance art or as source media for their own performances. 
-
+Artist's are encouraged to freely employ provided media within their reenactments of landmark performance art or as source media for their own performances. 
 
 ### Contributing
 
@@ -31,7 +29,7 @@ There are a number of ways to contribute to *A Haunting of Haunts*:
 	*	Performances can be created through the use of the provided performance image or Collada 3D file. To have documentation of the performance included as part of this repository contact Garrett Lynch IRL through GitHub.
 
 2. The reworking of current performance media.
-	*	Media provided as part of performances listed in this repository can be improved, reworked, added to or remixed in any way and included in branch repositorys from the master branch. To request inclusion in the master branch please file a merge request.
+	*	Media provided as part of performances listed in this repository can be improved, reworked, added to or remixed in any way through its provided source and exported as image, video or 3D. Reworked media can be included in a branch repository. To request inclusion in the master branch please file a merge request.
 
 3. The creation of new performance media.
 	*	New performance media i.e. of performances not currently included in this repository, can be created and included in branch repositorys from the master branch. To request inclusion in the master branch please file a merge request.
@@ -48,7 +46,6 @@ In response to these questions and reflecting on the condition of performance in
 
 The series is intended to facilitate the exploration of what can be achieved when spatial and corporeal possibilites are on the one hand limited or simplified but when the necessity of technology to view performance is on the other a way to move beyond those limitations. This is most obviously demonstrated in how artists can appear out of their actual living or studio spaces and in another. The spaces/props and the bodies/actions of the performances, however, are only 'virtually' co-present: technically in image, through bluescreening, 3D rendering, interpretation etc. and conceptually through the concept of hautology. While network technologies employed remove the limitations of the space occupied artists have to refer to what they know, for example landmark performances, or what their current frame of reference lets them imagine, perhaps a performance in a space they know. This existing awareness of performances, spaces known to the artist and so forth then in a sense haunts all new performances, a condition that spans all creative practices in post-modernism and beyond.
 
-
 ### References
 
 *	Dixon, S., (2007). *Digital performance: a history of new media in theater, dance, performance art and installation*. Cambridge: MIT Press.
@@ -61,8 +58,7 @@ The series is intended to facilitate the exploration of what can be achieved whe
 
 ### Acknowledgements
 
-A Haunting of Haunts has been created with the free and open-source 3D computer graphics software [Blender](https://www.blender.org/). In addition numerous free, Creative Commons or Open Source media has been used in the creation of each performance scene's media. Full credits for these are given within each performance scene's folder.
-
+A Haunting of Haunts has been created with the free and open-source 3D computer graphics software [Blender](https://www.blender.org/). In addition numerous free, Creative Commons, Open Source or fair use media has been used in the creation of each performance scene's media. Full credits for these are given within each performance scene's folder.
 
 ### Licensing
 

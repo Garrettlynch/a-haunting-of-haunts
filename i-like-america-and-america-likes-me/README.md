@@ -9,8 +9,21 @@ The performance I Like America And America Likes Me by Joseph Beuys occurred at 
 
 The coyote is both a sacred animal for certain American Indian populations but equally has a status as vermin in Western cultures. As such, for Beuys, the performance was a reconcilation with this animal intended to represent the encounter between modern humanity and a lost spirituality. Beuys invited the US to confront the massacre of the native peoples of North America whilst in the midst of another bloody conflict. In doing so he applied an approach to the US that he had until then only conducted in Germany: attempting to heal a nation by causing them to face up to the darkest chapters of their history.
  
-
 #### References
 
 New Media Encyclopedia (1998-1999). *I Like America and America Likes Me 1974*. [online] newmedia-art.org. Available at: <http://www.newmedia-art.org/cgi-bin/show-oeu.asp?ID=150000000034296&lg=GBR> [Accessed 6th August 2020].
 Tate, (2005). *Joseph Beuys: Actions, Vitrines, Environments: Room 4*. [online] tate.org.uk. Available at: < https://www.tate.org.uk/whats-on/tate-modern/exhibition/joseph-beuys-actions-vitrines-environments/joseph-beuys-actions-4> [Accessed 6th August 2020].
+
+### Credits
+
+Free, Creative Commons, Open Source or fair use media has been used in the creation of this performance scene's media. Full credits for these are given below.
+
+*	Bolt Factory - https://docs.blender.org/manual/en/dev/addons/add_mesh/boltfactory.html
+*	Door Hinge - https://3dwarehouse.sketchup.com/model/77af6c2fcbaabcbd5217e3e48d1c0d9/door-hinge?hl=en&login=true
+*	Fire Sprinkler Head - https://www.thingiverse.com/thing:2111100
+*	Aged Wood - https://www.3dxo.com/textures/2970_aged_wood
+*	white-painted-wood - https://theproblem-solver.com/free-texture-painted-wood/
+*	Galvanized - https://www.3dxo.com/textures/2968_galvanized
+*	Metal 024 - https://cc0textures.com/view?id=Metal024
+*	Planks 013 - https://cc0textures.com/view?id=Planks013
+*	Wall Bricks White Brick - https://pixabay.com/photos/wall-bricks-white-white-brick-wall-769963/
