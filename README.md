@@ -7,7 +7,6 @@
 
 ---
 
-
 ### About
 
 *A Haunting of Haunts* is a collection of media packs that allow artists to reenact or create new networked performance art based on landmark performances. It provides media in image and 3D formats that can be employed within a number of networked environments.
