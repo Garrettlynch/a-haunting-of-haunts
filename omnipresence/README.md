@@ -11,3 +11,16 @@ Titled *Omniprésence* because the surgery, performed in an operating theatre th
 #### References
 
 Knafo, D., (2009). Castration and Medusa: Orlan's Art on the Cutting Edge. *Studies in Gender and Sexuality*, 10(3), pp. 142-158.
+
+### Credits
+
+Free, Creative Commons, Open Source or fair use media has been used in the creation of this performance scene's media. Full credits for these are given below.
+
+*	Bolt Factory - https://docs.blender.org/manual/en/dev/addons/add_mesh/boltfactory.html
+*	Door Hinge - https://3dwarehouse.sketchup.com/model/77af6c2fcbaabcbd5217e3e48d1c0d9/door-hinge?hl=en&login=true
+*	Fabric 030 - https://cc0textures.com/view?id=Fabric030
+*	Wood 017 - https://cc0textures.com/view?id=Wood017
+*	Bone and teeth textures and materials - http://www.blenderinsight.com/material-for-blender-2-8x-cycles/nggallery/textures2_8/special-materials-for-2-8x-cycles
+*	Wire mesh industrial steel mesh - https://pixabay.com/illustrations/wire-mesh-industrial-steel-mesh-922512/
+*	Panasonic Logo - https://freebiesupply.com/logos/panasonic-logo-4/
+*	Philips Logo Vector - https://seeklogo.com/vector-logo/108446/philips
