@@ -7,7 +7,6 @@ Titled *Omniprésence* because the surgery, performed in an operating theatre th
 
 > "was sent by satellite to galleries around the world. Orlan has become omnipresent; she is everywhere, not to be ignored or forgotten. She is tended to by doctors and nurses and we, her audience, look on anxiously while she endures the knife." (Knafo, 2009)
 
-
 #### References
 
 Knafo, D., (2009). Castration and Medusa: Orlan's Art on the Cutting Edge. *Studies in Gender and Sexuality*, 10(3), pp. 142-158.
