@@ -1,5 +1,5 @@
 # A Haunting of Haunts (2020)
-### *Garrett Lynch IRL, Ireland*
+### *Garrett Lynch (IRL), Ireland*
 
 ![A Haunting of Haunts](https://user-images.githubusercontent.com/8354239/90631870-19185c80-e241-11ea-8c30-a4d15eae8424.png)
 
@@ -26,7 +26,7 @@ Artist's are encouraged to freely employ provided media within their reenactment
 There are a number of ways to contribute to *A Haunting of Haunts*:
 
 1. The reenactment or creation of performances with media provided.
-	*	Performances can be created through the use of the provided performance image or Collada 3D file. To have documentation of the performance included as part of this repository contact Garrett Lynch IRL through GitHub.
+	*	Performances can be created through the use of the provided performance image or Collada 3D file. To have documentation of the performance included as part of this repository contact Garrett Lynch (IRL) through GitHub.
 
 2. The reworking of current performance media.
 	*	Media provided as part of performances listed in this repository can be improved, reworked, added to or remixed in any way through its provided source and exported as image, video or 3D. Reworked media can be included in a branch repository. To request inclusion in the master branch please file a merge request.
