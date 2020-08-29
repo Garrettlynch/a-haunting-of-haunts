@@ -10,7 +10,7 @@ This page documents performances to date that are created with the *A Haunting o
 
 The avatar is an extension of the artist in the virtual world, it’s what lets the artist be in contact with the virtual environment. A non-body moving in a non-place. We can say that for the avatar the artist represents its 'physical extension' in the real world. But can the avatar have consciousness of itself and of its extension? What is connected to it? 'Have you ever been a human being?' is the question addressed to itself, the artist and the audience.
 
-!---
+<!--
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 **Above:** *Text*
