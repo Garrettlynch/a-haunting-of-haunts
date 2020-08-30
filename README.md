@@ -3,7 +3,7 @@
 
 ![A Haunting of Haunts](https://user-images.githubusercontent.com/8354239/90631870-19185c80-e241-11ea-8c30-a4d15eae8424.png)
 
-**Top:** *Recreation of Rebecca Horn's studio in West Berlin employed in the performance Scratching Both Walls at Once.* **Bottom left:** *Recreation of the space employed by Joseph Beuys at the René Block Gallery for the performance I Like America and America Likes Me.* **Bottom right:** *Recreation of the studio in Southampton, New York employed by Bruce Nauman in the performance Walking in an Exaggerated Manner around a Square.*
+**Top:** *Recreation of Rebecca Horn's studio in West Berlin employed in the performance Scratching Both Walls at Once.* **Bottom left:** *Recreation of the space employed by Joseph Beuys at the René Block Gallery for the performance I Like America and America Likes Me.* **Bottom right:** *Recreation of the studio in Southampton, New York employed by Bruce Nauman in the performance Walking in an Exaggerated Manner around the Perimeter of a Square.*
 
 ---
 
