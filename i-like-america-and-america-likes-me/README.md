@@ -12,7 +12,7 @@ The coyote is both a sacred animal for certain American Indian populations but e
 #### References
 
 New Media Encyclopedia (1998-1999). *I Like America and America Likes Me 1974*. [online] newmedia-art.org. Available at: <http://www.newmedia-art.org/cgi-bin/show-oeu.asp?ID=150000000034296&lg=GBR> [Accessed 6th August 2020].
-Tate, (2005). *Joseph Beuys: Actions, Vitrines, Environments: Room 4*. [online] tate.org.uk. Available at: < https://www.tate.org.uk/whats-on/tate-modern/exhibition/joseph-beuys-actions-vitrines-environments/joseph-beuys-actions-4> [Accessed 6th August 2020].
+Tate, (2005). *Joseph Beuys: Actions, Vitrines, Environments: Room 4*. [online] tate.org.uk. Available at: <https://www.tate.org.uk/whats-on/tate-modern/exhibition/joseph-beuys-actions-vitrines-environments/joseph-beuys-actions-4> [Accessed 6th August 2020].
 
 ### Credits
 
