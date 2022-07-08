@@ -6,11 +6,11 @@ This page documents performances to date that are created with the *A Haunting o
 
 ### I am sitting in a room (Alvin Lucier) - the people of Cork City
 
-![I Am Sitting in a Room (Alvin Lucier)](https://user-images.githubusercontent.com/8354239/178006909-50883337-8975-4ce0-9736-e281bf3b5cff.png)
+![I Am Sitting in a Room (Alvin Lucier)](https://user-images.githubusercontent.com/8354239/178007906-e760c07e-d02c-4961-9383-e6bb3562f118.png)
 
-**Above:** *I am sitting in a room (Alvin Lucier) by the people of Cork City 2022.*
+**Above:** *I Am Sitting In A Room (Alvin Lucier) by the people of Cork City 2022.*
 
-As part of the Digital Art in Ireland Exhibition (https://sample-studios.com/exhibitions/digital-art-in-ireland-exhibition/) hosted by Sample Studios & Digital Arts & Humanities at University College Cork. I am sitting in a room (Alvin Lucier) was exhibited as a photographic backdrop for exhibition visitors to pose in front of and improvise performances.
+As part of the Digital Art in Ireland Exhibition (https://sample-studios.com/exhibitions/digital-art-in-ireland-exhibition/) hosted by Sample Studios & Digital Arts & Humanities at University College Cork a fabric photographic-style backdrop was exhibited that refers to Alvin Lucier’s avant-garde sound performance *I Am Sitting In A Room* (1969). The backdrop scene is based on photographs by artist Mary Lucier that are created using the same process as Alvin Lucier in his performance and depicts the Lucier’s living room in the US, the assumed site of the sound performance. Visitors to the exhibition were invited to pose/perform in front of the backdrop and then share photos or videos on social media with the hashtag #hauntingofhaunts.
 
 ---
 
