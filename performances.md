@@ -4,6 +4,16 @@ This page documents performances to date that are created with the *A Haunting o
 
 ---
 
+### I am sitting in a room (Alvin Lucier) - the people of Cork City
+
+[![I am sitting in a room - Alvin Lucier](https://user-images.githubusercontent.com/8354239/91714228-e5c2bf80-eba8-11ea-8cc6-a78a8c73f70f.png)](https://youtu.be/zK3LN9UajPQ)
+
+**Above:** *I am sitting in a room (Alvin Lucier) by the people of Cork City 2022.*
+
+As part of the Digital Art in Ireland Exhibition (https://sample-studios.com/exhibitions/digital-art-in-ireland-exhibition/) hosted by Sample Studios & Digital Arts & Humanities at University College Cork. I am sitting in a room (Alvin Lucier) was exhibited as a photographic backdrop for exhibition visitors to pose in front of and improvise performances.
+
+---
+
 ### Have You Ever Been a Human Being? - Simotron Aquila
 
 [![Have You Ever Been a Human Being? - Simotron Aquila](https://user-images.githubusercontent.com/8354239/91637105-84bdaf00-ea23-11ea-9e0b-abcfb2b318b2.png)](https://youtu.be/LnVG1no7Lnc)
