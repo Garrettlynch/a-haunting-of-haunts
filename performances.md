@@ -6,7 +6,7 @@ This page documents performances to date that are created with the *A Haunting o
 
 ### I am sitting in a room (Alvin Lucier) - the people of Cork City
 
-[![I am sitting in a room - Alvin Lucier](https://user-images.githubusercontent.com/8354239/91714228-e5c2bf80-eba8-11ea-8cc6-a78a8c73f70f.png)](https://youtu.be/zK3LN9UajPQ)
+![I Am Sitting in a Room (Alvin Lucier)](https://user-images.githubusercontent.com/8354239/178006909-50883337-8975-4ce0-9736-e281bf3b5cff.png)
 
 **Above:** *I am sitting in a room (Alvin Lucier) by the people of Cork City 2022.*
 
